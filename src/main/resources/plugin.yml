@@ -1,0 +1,8 @@
+name: fly
+version: '${project.version}'
+main: club.nyandere.fly.Fly
+api-version: '1.18'
+commands:
+  fly:
+    description: "飛べる"
+    usage: "/fly"
